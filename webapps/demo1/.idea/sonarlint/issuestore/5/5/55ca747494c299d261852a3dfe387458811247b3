@@ -1,0 +1,6 @@
+
+N
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ÚŠÚ3
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ÜÚÜïúÿÿÿÿ
+fsquid:S26748"JCheck the return value of the "read" call to see how many bytes were read.(¥«±°ÿÿÿÿÿ

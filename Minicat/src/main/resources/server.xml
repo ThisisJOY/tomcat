@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Mapper—>Host->Context->Wrapper->Servlet-->
+<Server>
+    <Service>
+        <Connector port="8080"/>
+        <Engine>
+            <Host name="localhost" appBase="/Users/liqiaoqiao/webapps">
+                <Context docBase="demo1" url="/demo1"/>
+                <Context docBase="demo2" url="/demo2"/>
+            </Host>
+        </Engine>
+    </Service>
+</Server>

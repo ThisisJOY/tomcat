@@ -1,0 +1,5 @@
+
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‡¨æÔ˜.
+±%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(» ß¡8¸¤çÔ˜.
+Fsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‡¨æÔ˜.
+bsquid:S2147#"DCombine this catch with the one at line 33, which has the same body.(ï­£Ä8þßäÔ˜.

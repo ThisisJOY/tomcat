@@ -1,0 +1,32 @@
+
+nsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ8´ÇÑÂ˜.
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(‹•í–úÿÿÿÿ8¿¾‘ù—.
+dsquid:S2147ƒ"ECombine this catch with the one at line 253, which has the same body.(ýàÑÎ8åÄ»Ð˜.
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(œÃ¾¦ûÿÿÿÿ8ôöÑÂ˜.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±×¹•üÿÿÿÿ8¾Œ´Ì˜.
+osquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.( ³þÃüÿÿÿÿ8ôöÑÂ˜.
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(”Ô©´8ƒÐÿË˜.
+jsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(É¦çø8›Æ Ì˜.
+Gsquid:S1148—"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8åÄ»Ð˜.
+gsquid:HiddenFieldCheck²"8Rename "port" which hides the field declared at line 34.(ÊÁˆÉøÿÿÿÿ8­ÎŸÍ˜.
+jsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ˆñ•â8À”ÇË˜.
+dsquid:S2147–"ECombine this catch with the one at line 276, which has the same body.(”ý¾8åÄ»Ð˜.
+Gsquid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Öˆü—.
+Esquid:S2438 "!"requestProcessor" is a "Thread".(çá†îûÿÿÿÿ8ë®ƒÑ˜.
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ
+dsquid:S2147ÿ"ECombine this catch with the one at line 253, which has the same body.(Å¡ß8àËÉÓ˜.
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8åÄ»Ð˜.
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ8¶îø—.
+Gsquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8åÄ»Ð˜.
+Fsquid:S2189š""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8“ÄØÔ˜.
+msquid:S2095Q"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(íîÁ¿ùÿÿÿÿ8¿¾‘ù—.
+Esquid:S1481õ"&Remove this unused "s" local variable.(Ñ³æÂ8“ÄØÔ˜.
+esquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(Â¶Ä“8´ÇÑÂ˜.
+Tsquid:S1854õ"5Remove this useless assignment to local variable "s".(Ñ³æÂ8“ÄØÔ˜.
+nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ8¿¾‘ù—.
+dsquid:S2147"ECombine this catch with the one at line 253, which has the same body.(¯žáè8àËÉÓ˜.
+Gsquid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8åÄ»Ð˜.
+Gsquid:S1148þ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àËÉÓ˜.
+Gsquid:S1148€"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àËÉÓ˜.

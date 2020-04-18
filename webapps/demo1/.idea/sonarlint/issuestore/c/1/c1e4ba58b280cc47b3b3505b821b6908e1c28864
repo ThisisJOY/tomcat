@@ -1,0 +1,25 @@
+
+Esquid:S2438—"!"requestProcessor" is a "Thread".(çá†îûÿÿÿÿ8€ŸÑ½—.
+]squid:S2147Ã"ECombine this catch with the one at line 193, which has the same body.(Å¡ß
+]squid:S2147Å"ECombine this catch with the one at line 193, which has the same body.(¯áè
+]squid:S2147Ç"ECombine this catch with the one at line 193, which has the same body.(ıàÑÎ
+@squid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:S2095I"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(íîÁ¿ùÿÿÿÿ
+@squid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÃ¾¦ûÿÿÿÿ
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(‹•í–úÿÿÿÿ
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ
+gsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ
+]squid:S2147Ù"ECombine this catch with the one at line 215, which has the same body.(”ı¾
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.( ³şÃüÿÿÿÿ
+?squid:S2189’""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+^squid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(Â¶Ä“
+Tsquid:UselessImportCheck"+Remove this unused import 'org.dom4j.Node'.(Ù´£›üÿÿÿÿ
+gsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÛÅõ½—.
